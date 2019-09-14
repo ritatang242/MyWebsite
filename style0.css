@@ -39,3 +39,15 @@ body {
     color: white;
     font-size: 12pt;
 }
+
+.col-sm-3 {
+  padding: 1%;
+}
+
+.col-sm-4 {
+  padding: 1%;
+}
+
+.col-sm-6 {
+  padding: 1%;
+}
