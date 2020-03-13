@@ -5,7 +5,6 @@
 body {
     font-family:Helvetica, 微軟正黑體;
 	  margin: 0px;
-    background-color: #EAE5E5;
 }
 
 
@@ -33,7 +32,7 @@ body {
     float: left; /* 若想固定footer位置要加上 bottom: 0px; */
 	  width: 100%;
     position: absolute;
-    background-color: #333;
+    background-color: #F9BF45;
     padding: 2%;
     text-align: center;
     color: white;
